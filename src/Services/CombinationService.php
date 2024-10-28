@@ -1,5 +1,5 @@
 <?php
-namespace AizPackages\CombinationGenerate\Services;
+namespace RestechDev\CombinationGenerate\Services;
 
 class CombinationService {
 

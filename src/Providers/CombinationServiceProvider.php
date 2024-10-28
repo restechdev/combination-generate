@@ -1,20 +1,21 @@
 <?php
 
-namespace AizPackages\CombinationGenerate\Providers;
+namespace RestechDev\CombinationGenerate\Providers;
 
-use AizPackages\CombinationGenerate\Services\CombinationService;
+use RestechDev\CombinationGenerate\Services\CombinationService;
 use Illuminate\Support\ServiceProvider;
 
 class CombinationServiceProvider extends ServiceProvider
 {
 
     /**
-     * Register any events for your application.
+     * Bootstrap any application services.
      *
      * @return void
      */
     public function boot()
     {
+        // Code to bootstrap services if needed
     }
 
     /**
